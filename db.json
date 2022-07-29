@@ -1,8 +1,6 @@
 {
   "data":{
     "name": "Nyam",
-    "type": "Somekind of data on the c",
-    "serial": "C144NI129DA",
-    "expiry": "10/10/2022"
+    "text": "Test DB JSON"
   }
 }
